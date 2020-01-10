@@ -1,0 +1,2 @@
+export const SHOW_ALL_HERO= 'SHOW_ALLSHOW_ALL_HERO_BLOG'
+export const SHOW_HERO_BY_ID = 'SHOW_HERO_BY_ID'
